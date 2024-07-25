@@ -1,0 +1,146 @@
+[
+    {
+        "symbol": "EURUSD=X",
+        "price": 1.0857,
+        "change": 0.0013,
+        "percent_change": "+0.12%"
+    },
+    {
+        "symbol": "JPY=X",
+        "price": 152.368,
+        "change": -1.292,
+        "percent_change": "-0.84%"
+    },
+    {
+        "symbol": "GBPUSD=X",
+        "price": 1.2887,
+        "change": -0.002,
+        "percent_change": "-0.15%"
+    },
+    {
+        "symbol": "AUDUSD=X",
+        "price": 0.6527,
+        "change": -0.0056,
+        "percent_change": "-0.85%"
+    },
+    {
+        "symbol": "NZDUSD=X",
+        "price": 0.5911,
+        "change": -0.0021,
+        "percent_change": "-0.36%"
+    },
+    {
+        "symbol": "EURJPY=X",
+        "price": 165.373,
+        "change": -1.206,
+        "percent_change": "-0.72%"
+    },
+    {
+        "symbol": "GBPJPY=X",
+        "price": 196.324,
+        "change": -2.0,
+        "percent_change": "-1.01%"
+    },
+    {
+        "symbol": "EURGBP=X",
+        "price": 0.8423,
+        "change": 0.0025,
+        "percent_change": "+0.30%"
+    },
+    {
+        "symbol": "EURCAD=X",
+        "price": 1.5015,
+        "change": 0.0055,
+        "percent_change": "+0.37%"
+    },
+    {
+        "symbol": "EURSEK=X",
+        "price": 11.7542,
+        "change": 0.0723,
+        "percent_change": "+0.62%"
+    },
+    {
+        "symbol": "EURCHF=X",
+        "price": 0.9538,
+        "change": -0.0053,
+        "percent_change": "-0.55%"
+    },
+    {
+        "symbol": "EURHUF=X",
+        "price": 393.871,
+        "change": 1.031,
+        "percent_change": "+0.26%"
+    },
+    {
+        "symbol": "EURJPY=X",
+        "price": 165.373,
+        "change": -1.206,
+        "percent_change": "-0.72%"
+    },
+    {
+        "symbol": "CNY=X",
+        "price": 7.2186,
+        "change": -0.0434,
+        "percent_change": "-0.60%"
+    },
+    {
+        "symbol": "HKD=X",
+        "price": 7.804,
+        "change": -0.0038,
+        "percent_change": "-0.05%"
+    },
+    {
+        "symbol": "SGD=X",
+        "price": 1.3421,
+        "change": -0.001,
+        "percent_change": "-0.08%"
+    },
+    {
+        "symbol": "INR=X",
+        "price": 83.685,
+        "change": -0.014,
+        "percent_change": "-0.02%"
+    },
+    {
+        "symbol": "MXN=X",
+        "price": 18.5042,
+        "change": 0.1582,
+        "percent_change": "+0.86%"
+    },
+    {
+        "symbol": "PHP=X",
+        "price": 58.58,
+        "change": 0.0,
+        "percent_change": "0.00%"
+    },
+    {
+        "symbol": "IDR=X",
+        "price": 16245.0,
+        "change": 36.0,
+        "percent_change": "+0.22%"
+    },
+    {
+        "symbol": "THB=X",
+        "price": 36.13,
+        "change": 0.06,
+        "percent_change": "+0.17%"
+    },
+    {
+        "symbol": "MYR=X",
+        "price": 4.661,
+        "change": -0.01,
+        "percent_change": "-0.21%"
+    },
+    {
+        "symbol": "ZAR=X",
+        "price": 18.4856,
+        "change": 0.1539,
+        "percent_change": "+0.84%"
+    },
+    {
+        "symbol": "RUB=X",
+        "price": 85.1652,
+        "change": -1.0712,
+        "percent_change": "-1.24%"
+    }
+]
